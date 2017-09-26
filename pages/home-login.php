@@ -9,7 +9,7 @@
       <div class="col-lg-12 lgn-search-box">
         <div class="panel panel-default">
             <div class="panel-heading">
-              <h3 class="panel-title text-center">Temukan berbagai lowongan pekerjaan sesuai kriteria</h3>
+              <h3 class="panel-title text-center">Temukan berbagai lowongan pekerjaan sesuai kriteria Anda</h3>
             </div>
             <div class="panel-body">
               <div class="col-lg-3 p-l5 p-r5">
